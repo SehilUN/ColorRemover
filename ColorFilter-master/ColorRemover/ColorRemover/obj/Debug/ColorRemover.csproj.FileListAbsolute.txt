@@ -1,0 +1,20 @@
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\bin\Debug\ColorRemover.exe.config
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\bin\Debug\ColorRemover.exe
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\bin\Debug\ColorRemover.pdb
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\obj\Debug\ColorRemover.csprojAssemblyReference.cache
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\obj\Debug\ColorRemover.Form1.resources
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\obj\Debug\ColorRemover.Properties.Resources.resources
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\obj\Debug\ColorRemover.csproj.GenerateResource.cache
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\obj\Debug\ColorRemover.csproj.CoreCompileInputs.cache
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\obj\Debug\ColorRemover.exe
+C:\Users\OZ\source\repos\ColorRemover\ColorRemover\obj\Debug\ColorRemover.pdb
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\bin\Debug\ColorRemover.exe.config
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\bin\Debug\ColorRemover.exe
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\bin\Debug\ColorRemover.pdb
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\obj\Debug\ColorRemover.csprojAssemblyReference.cache
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\obj\Debug\ColorRemover.Form1.resources
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\obj\Debug\ColorRemover.Properties.Resources.resources
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\obj\Debug\ColorRemover.csproj.GenerateResource.cache
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\obj\Debug\ColorRemover.csproj.CoreCompileInputs.cache
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\obj\Debug\ColorRemover.exe
+C:\Users\SEHİL ÜN\Desktop\ColorFilter-master\ColorRemover\ColorRemover\obj\Debug\ColorRemover.pdb
