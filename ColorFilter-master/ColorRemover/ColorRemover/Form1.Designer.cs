@@ -81,9 +81,9 @@
             this.label1.Location = new System.Drawing.Point(963, 283);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(46, 17);
+            this.label1.Size = new System.Drawing.Size(18, 17);
             this.label1.TabIndex = 3;
-            this.label1.Text = "label1";
+            this.label1.Text = "--";
             // 
             // trackBar1
             // 
@@ -115,9 +115,9 @@
             this.label2.Location = new System.Drawing.Point(119, 329);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(46, 17);
+            this.label2.Size = new System.Drawing.Size(18, 17);
             this.label2.TabIndex = 6;
-            this.label2.Text = "label2";
+            this.label2.Text = "--";
             // 
             // openFileDialog1
             // 
